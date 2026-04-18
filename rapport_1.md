@@ -1091,7 +1091,7 @@ else:
 <img width="764" height="459" alt="image" src="https://github.com/user-attachments/assets/2d0a133a-4888-46e0-922f-afb96817bd59" />
 
 
-### 12.7 Analyse 5 : Répartition des offres d’emploi par type d’emploi
+###  12.7   Analyse 5 : Répartition des offres d’emploi par type d’emploi
 
 Cette dernière visualisation présente la répartition des offres par type d’emploi.
 
@@ -1150,7 +1150,9 @@ else:
 ```
 
 <img width="783" height="427" alt="image" src="https://github.com/user-attachments/assets/fee50481-9e2a-47e9-9d98-7ef8a590dfc3" />
-##12.8 Analyse 6 : Compétences les plus demandées
+
+
+###  12.8 Analyse 6 : Compétences les plus demandées
 
 Cette visualisation met en évidence les compétences les plus demandées dans les offres d’emploi.
 L’affichage comprend :
