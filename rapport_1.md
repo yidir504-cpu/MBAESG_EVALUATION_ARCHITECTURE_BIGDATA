@@ -478,7 +478,8 @@ st.altair_chart(chart_titles, use_container_width=True)
 st.dataframe(filtered_titles, use_container_width=True)
 ```
 
-![Analyse 1 - Top 10 des titres les plus publiés par industrie](analyse1.png)
+<img width="1643" height="701" alt="Capture d&#39;écran 2026-04-19 022525" src="https://github.com/user-attachments/assets/646497cb-9b3e-4fb7-aa88-b7833a044a09" />
+
 
 ---
 
