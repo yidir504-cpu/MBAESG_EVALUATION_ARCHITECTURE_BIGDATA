@@ -484,7 +484,8 @@ st.subheader("Table des résultats")
 st.dataframe(df_company_size, use_container_width=True)
 ```
 
-![Analyse 3 - Répartition des offres par taille d'entreprise](analyse3.png)
+<img width="1638" height="562" alt="Capture d&#39;écran 2026-04-19 022607" src="https://github.com/user-attachments/assets/8d81b67d-8490-43e4-b6c3-416e77feb3fe" />
+
 
 ---
 
@@ -516,7 +517,8 @@ st.altair_chart(chart_industries, use_container_width=True)
 st.dataframe(df_company_industries, use_container_width=True)
 ```
 
-![Analyse 6 - Top 10 des industries les plus représentées](analyse6.png)
+<img width="1659" height="535" alt="Capture d&#39;écran 2026-04-19 022701" src="https://github.com/user-attachments/assets/2e90cb8f-f090-4d3c-9a28-f0198dab1981" />
+
 
 ---
 
@@ -548,7 +550,8 @@ st.altair_chart(chart_specialities, use_container_width=True)
 st.dataframe(df_company_specialities, use_container_width=True)
 ```
 
-![Analyse 7 - Top 10 des spécialités les plus représentées](analyse7.png)
+<img width="1647" height="537" alt="Capture d&#39;écran 2026-04-19 022718" src="https://github.com/user-attachments/assets/58995b2d-5f20-472b-88e8-8b7c410880b3" />
+
 
 ---
 
@@ -583,7 +586,8 @@ st.altair_chart(chart_followers, use_container_width=True)
 st.dataframe(df_top_followers, use_container_width=True)
 ```
 
-![Analyse 8 - Top 10 des entreprises avec le plus de followers](analyse8.png)
+<img width="1650" height="519" alt="Capture d&#39;écran 2026-04-19 022736" src="https://github.com/user-attachments/assets/015ba006-f760-4f26-8a3e-82a2bf454a64" />
+
 
 ---
 
@@ -616,7 +620,8 @@ st.altair_chart(chart_country, use_container_width=True)
 st.dataframe(df_companies_by_country, use_container_width=True)
 ```
 
-![Analyse 9 - Répartition des entreprises par pays](analyse9.png)
+<img width="1639" height="551" alt="Capture d&#39;écran 2026-04-19 022748" src="https://github.com/user-attachments/assets/abe37c78-b6f8-4c9f-ac68-13cdf3583a2d" />
+
 
 ---
 
