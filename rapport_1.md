@@ -579,3 +579,4 @@ st.dataframe(df_work_type_distribution, use_container_width=True)
 ## 12. Conclusion
 
 Cette partie du projet a permis de charger les fichiers d'offres d'emploi dans Snowflake, de structurer les données selon l'architecture Medallion, de nettoyer les données dans Silver, de préparer les tables Gold, et de réaliser les analyses sur les titres, salaires, secteurs et types d'emploi avec Streamlit.
+                                                                                        C.M
