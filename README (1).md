@@ -1,6 +1,7 @@
 # Projet : Analyse des Offres d'Emploi LinkedIn avec Snowflake
 
 ## Présentation
+Ce projet a été réalisé par Celine MAHTOUT et Idir OULD AHMED.
 
 Ce projet a pour objectif d'analyser un jeu de données LinkedIn dans **Snowflake** afin d'étudier le marché de l'emploi à partir de plusieurs tables CSV et JSON disponibles dans un bucket S3 public.
 
