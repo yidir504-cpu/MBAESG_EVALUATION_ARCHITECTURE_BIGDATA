@@ -1,3 +1,6 @@
+<img width="1642" height="598" alt="Capture d&#39;écran 2026-04-19 022546" src="https://github.com/user-attachments/assets/5d4581e4-735b-4c5b-b908-337c55949ff3" />
+<img width="1642" height="598" alt="Capture d&#39;écran 2026-04-19 022546" src="https://github.com/user-attachments/assets/30903b39-ab48-479a-b71b-85ac292e1528" />
+<img width="1642" height="598" alt="Capture d&#39;écran 2026-04-19 022546" src="https://github.com/user-attachments/assets/386ca95c-61b0-4460-922a-de1e05804ff4" />
 # Rapport Binôme 1 — Analyse des Offres d'Emploi LinkedIn avec Snowflake
 
 ## Présentation
@@ -506,7 +509,8 @@ st.altair_chart(chart_salary, use_container_width=True)
 st.dataframe(filtered_salary, use_container_width=True)
 ```
 
-![Analyse 2 - Top 10 des postes les mieux rémunérés par industrie](analyse2.png)
+<img width="1642" height="598" alt="Capture d&#39;écran 2026-04-19 022546" src="https://github.com/user-attachments/assets/923a4a6c-d2e4-4183-b5c1-44b376b2d040" />
+
 
 ---
 
@@ -529,7 +533,8 @@ st.altair_chart(chart_industry_distribution, use_container_width=True)
 st.dataframe(df_industry_distribution, use_container_width=True)
 ```
 
-![Analyse 4 - Répartition des offres par secteur d'activité](analyse4.png)
+<img width="1623" height="585" alt="Capture d&#39;écran 2026-04-19 022624" src="https://github.com/user-attachments/assets/e8fef2fa-7db5-4152-a667-da12264a9605" />
+
 
 ---
 
@@ -569,7 +574,8 @@ st.subheader("Table des résultats")
 st.dataframe(df_work_type_distribution, use_container_width=True)
 ```
 
-![Analyse 5 - Répartition des offres par type d'emploi](analyse5.png)
+<img width="1665" height="538" alt="Capture d&#39;écran 2026-04-19 022642" src="https://github.com/user-attachments/assets/92a0449e-c936-488c-8a30-bad98be9afc0" />
+
 
 ---
 
