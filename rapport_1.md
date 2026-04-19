@@ -1,6 +1,3 @@
-<img width="1642" height="598" alt="Capture d&#39;écran 2026-04-19 022546" src="https://github.com/user-attachments/assets/5d4581e4-735b-4c5b-b908-337c55949ff3" />
-<img width="1642" height="598" alt="Capture d&#39;écran 2026-04-19 022546" src="https://github.com/user-attachments/assets/30903b39-ab48-479a-b71b-85ac292e1528" />
-<img width="1642" height="598" alt="Capture d&#39;écran 2026-04-19 022546" src="https://github.com/user-attachments/assets/386ca95c-61b0-4460-922a-de1e05804ff4" />
 # Rapport Binôme 1 — Analyse des Offres d'Emploi LinkedIn avec Snowflake
 
 ## Présentation
